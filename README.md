@@ -4,7 +4,6 @@ This is the place where I show my skills briefly :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 👀 I’m interested in web development, video streamming, OCR and machine learning.
 - 💬 &nbsp;Ask me about anything related to Python/PHP/Javascript/Typescript or Django/Flask/CodeIgniter/Zend/WordPress/Symfony/React/Express
-- 📫 &nbsp;How to reach me: msstreeet@gmail.com
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
